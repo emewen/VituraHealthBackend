@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C847EA5-72D1-4A46-9470-F1A7DC587D5C}|VituraHealthBackendTests\\VituraHealthBackendTests.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackendtests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C847EA5-72D1-4A46-9470-F1A7DC587D5C}|VituraHealthBackendTests\\VituraHealthBackendTests.csproj|solutionrelative:viturahealthbackendtests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\jsonreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\jsonreaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\iprescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\iprescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\data\\prescriptions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\data\\prescriptions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackend\\data\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7913FA-A9D6-40D5-A63F-988D54B567BD}|VituraHealthBackend\\VituraHealthBackend.csproj|solutionrelative:viturahealthbackend\\data\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPatientService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPatientService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:18:18.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PrescriptionService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\PrescriptionService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PrescriptionService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\PrescriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:26:41.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\ICacheService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\ICacheService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:04:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "patients.json",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\patients.json",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Data\\patients.json",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\patients.json",
+              "RelativeToolTip": "VituraHealthBackend\\Data\\patients.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T00:50:07.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:53:46.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Program.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Program.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:26:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Patient.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:15:56.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PatientService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:26:25.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Prescription.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:16:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VituraHealthBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T08:41:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackendTests\\PatientServiceTests.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackendTests\\PatientServiceTests.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackendTests\\PatientServiceTests.cs",
+              "RelativeToolTip": "VituraHealthBackendTests\\PatientServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:17:00.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPrescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPrescriptionService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\IPrescriptionService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPrescriptionService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\IPrescriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:32:39.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\CacheService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:55:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:38:47.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\JsonReaderService.cs",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\JsonReaderService.cs",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\JsonReaderService.cs",
+              "RelativeToolTip": "VituraHealthBackend\\Services\\JsonReaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T00:39:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\appsettings.json",
+              "RelativeToolTip": "VituraHealthBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T05:09:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "prescriptions.json",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\prescriptions.json",
+              "RelativeDocumentMoniker": "VituraHealthBackend\\Data\\prescriptions.json",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\prescriptions.json",
+              "RelativeToolTip": "VituraHealthBackend\\Data\\prescriptions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T01:31:40.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
