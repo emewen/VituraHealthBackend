@@ -42,7 +42,7 @@ namespace VituraHealthBackend.Services
         public void SetCache<T>(string cacheKey, T[] data)
         {
             var cacheEntryOptions = new MemoryCacheEntryOptions()
-                .SetSlidingExpiration(TimeSpan.FromSeconds(30))
+                .SetSlidingExpiration(TimeSpan.FromMinutes(1))
                 .SetAbsoluteExpiration(TimeSpan.FromMinutes(5));
 
             _cache.Set(cacheKey, data, cacheEntryOptions);

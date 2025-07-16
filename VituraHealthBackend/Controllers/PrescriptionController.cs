@@ -33,6 +33,10 @@ namespace VituraHealthBackend.Controllers
             {
                 return StatusCode(StatusCodes.Status406NotAcceptable);
             }
+            if (String.IsNullOrEmpty(prescription.DrugName) || String.IsNullOrEmpty(prescription.Dosage) || prescription.DatePrescribed == DateOnly.MinValue)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest);
+            }
             return Ok(await _prescriptionService.CreatePrescription(prescription));
         }
     }
