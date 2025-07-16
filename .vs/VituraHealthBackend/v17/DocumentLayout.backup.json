@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{633117FB-A115-4F85-9C90-60646D42A224}|Solution Items{633117FB-A115-4F85-9C90-60646D42A224}|C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{633117FB-A115-4F85-9C90-60646D42A224}|Solution Items{633117FB-A115-4F85-9C90-60646D42A224}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C847EA5-72D1-4A46-9470-F1A7DC587D5C}|VituraHealthBackendTests\\VituraHealthBackendTests.csproj|c:\\users\\erice\\source\\repos\\viturahealthbackend\\viturahealthbackendtests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C847EA5-72D1-4A46-9470-F1A7DC587D5C}|VituraHealthBackendTests\\VituraHealthBackendTests.csproj|solutionrelative:viturahealthbackendtests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,11 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-16T09:19:20.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPatientService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\IPatientService.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PrescriptionService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PrescriptionService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\PrescriptionService.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ICacheService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\ICacheService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\ICacheService.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "patients.json",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\patients.json",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Data\\patients.json",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Controllers\\PatientController.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Program.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Program.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Models\\Patient.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PatientService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\PatientService.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Prescription.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Models\\Prescription.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Models\\Prescription.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Properties\\launchSettings.json",
@@ -220,20 +237,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PatientServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackendTests\\PatientServiceTests.cs",
               "RelativeDocumentMoniker": "VituraHealthBackendTests\\PatientServiceTests.cs",
               "ToolTip": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackendTests\\PatientServiceTests.cs",
               "RelativeToolTip": "VituraHealthBackendTests\\PatientServiceTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T05:17:00.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IPrescriptionService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\IPrescriptionService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\IPrescriptionService.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CacheService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\CacheService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\CacheService.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PrescriptionController.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Controllers\\PrescriptionController.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Controllers\\PrescriptionController.cs",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JsonReaderService.cs",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Services\\JsonReaderService.cs",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Services\\JsonReaderService.cs",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\appsettings.json",
               "RelativeDocumentMoniker": "VituraHealthBackend\\appsettings.json",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "prescriptions.json",
               "DocumentMoniker": "C:\\Users\\erice\\source\\repos\\VituraHealthBackend\\VituraHealthBackend\\Data\\prescriptions.json",
               "RelativeDocumentMoniker": "VituraHealthBackend\\Data\\prescriptions.json",

@@ -5,7 +5,7 @@ The code is split in a frontend project and a backend project:
 - [frontend](https://github.com/emewen/VituraHealthFrontend)
 - [backend](https://github.com/emewen/VituraHealthBackend)
 
-## Vitura assessment backend startup
+# Vitura assessment backend startup
 
 To run, open in Visual Studio and run with the "http" profile.  If you run as https, a self signed cert will be needed/created
 on first run.  Also axiosInstance.tsx on the front end will need:
